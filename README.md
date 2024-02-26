@@ -16,6 +16,4 @@ product
      - Jumlah penjualan (total amount) 
 by store name
 
-![Dashboard-Clustering](https://github.com/rafifdwi/Clustering-Customer-Kalbe/blob/main/Dashboard_Clustering.png)
-
-Berikut ini merupakan [link Dashboard](https://public.tableau.com/app/profile/muhammad.rafif.dwidayatama/viz/DashboardKalbeVIX/Dashboard1#1)
+![Dashboard-Purchase-dari-Kalbe](https://github.com/rafifdwi/Clustering-Customer-Kalbe/blob/main/Dashboard%20Purchase%20dari%20Kalbe.jpg)
